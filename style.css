@@ -46,3 +46,20 @@
 .media-section{
     margin-bottom: 200px;
 }
+
+iframe{
+    border-radius: 5px;
+}
+.img1{
+    height: 410px;
+    width: 400px;
+    border-radius: 5px;
+}
+
+.img2{
+    margin-right: 80px;
+}
+
+.media2{
+    margin-right: 10px;
+}
