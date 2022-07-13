@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+
+.header{
+    background-image: url("image/jakat.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 180px;
+    
+}
+
+.head-div{
+    padding-top: 200px;
+    padding-left: 200px;
+}
+
+.comm-h1{
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.comm-p{
+    padding-right: 60%;
+    font-size: 20px;
+}
