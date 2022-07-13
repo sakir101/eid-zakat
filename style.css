@@ -26,3 +26,23 @@
     padding-right: 60%;
     font-size: 20px;
 }
+
+.media{
+    margin-top: 100px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.comm-h2{
+    font-size: 35px;
+    font-weight: 900;
+    font-family: 'Poppins', sans-serif;
+}
+
+.media-body{
+    margin-right: 100px;
+}
+
+.media-section{
+    margin-bottom: 200px;
+}
