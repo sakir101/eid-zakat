@@ -72,10 +72,6 @@ iframe{
     margin-right: 20%;
 }
 
-.title-head{
-    text-align: center;
-}
-
 .comm-p2{
     padding-left: 30%;
     padding-right: 30%;
@@ -118,3 +114,59 @@ iframe{
     margin-left: 15%;
     margin-right: 15%;
 }
+
+.card-last{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 50px;
+}
+
+.ho:hover{
+    background-color: darkslategrey;
+    color: white;
+}
+
+.a-ho{
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+footer{
+    background-color: black;
+    
+}
+
+footer>div>h3{
+    font-family: 'Oleo Script', cursive;
+    font-size: 30px;
+}
+
+.nav-div{
+    background-color: rgba(7, 18, 7, 0.848);
+    
+   
+}
+
+.navbar-light .navbar-toggler{
+    color: yellow;
+    border-color: yellow;
+    
+}
+
+
+
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 0.25rem;
+    
+}
+
+.navbar-nav{
+    font-size: 18px;
+}
+
+
