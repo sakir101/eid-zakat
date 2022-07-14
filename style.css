@@ -107,3 +107,14 @@ iframe{
 .bg{
     background-color: lightcyan;
 }
+
+.want-img{
+    height: 350px;
+    width: 340px;
+    border-radius: 5px;
+}
+
+.img-card2{
+    margin-left: 15%;
+    margin-right: 15%;
+}
