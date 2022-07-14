@@ -63,3 +63,47 @@ iframe{
 .media2{
     margin-right: 10px;
 }
+
+#demo2{
+    margin-right: 55%;
+}
+
+#demo3{
+    margin-right: 20%;
+}
+
+.title-head{
+    text-align: center;
+}
+
+.comm-p2{
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+
+
+.card-img{
+    width: auto;
+    display: inline;
+}
+
+.card-div{
+    width: auto;
+    display: inline;
+}
+
+.img-card{
+    filter: invert(88%) sepia(26%) saturate(7267%) hue-rotate(20deg) brightness(112%) contrast(96%);
+}
+
+.card-desi{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+
+.bg{
+    background-color: lightcyan;
+}
